@@ -1,0 +1,13 @@
+{
+  "name": "@jsw/server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo testing server with version: $npm_package_version"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@jsw/common": "^1.0.0"
+  }
+}
