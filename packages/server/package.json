@@ -9,5 +9,6 @@
   "license": "MIT",
   "dependencies": {
     "@jsw/common": "^1.0.2"
-  }
+  },
+  "gitHead": "97880c4cd5e54c5cee4f1441084716808af93ced"
 }
