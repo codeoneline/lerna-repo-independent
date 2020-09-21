@@ -6,6 +6,7 @@
   ],
   "scripts": {
     "test": "lerna run test",
+    "test-since": "lerna run test --since",
     "test-common": "lerna run test --scope=@jsw/common",
     "test-common-server": "lerna run test --scope={@jsw/common,@jsw/server}",
     "new-version": "lerna version --conventional-commits --yes",
