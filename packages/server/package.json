@@ -1,6 +1,6 @@
 {
   "name": "@jsw/server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@jsw/common": "^1.0.1"
+    "@jsw/common": "^1.0.2"
   }
 }
