@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": false,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "test": "lerna run test",
     "test-since": "lerna run test --since",
